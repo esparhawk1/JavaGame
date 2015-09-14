@@ -1,0 +1,6 @@
+pickup
+drop
+attack
+help
+heal
+runaway
